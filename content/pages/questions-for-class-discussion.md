@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Questions for Class Discussion
 uid: 08113404-3960-a473-8e30-7595d3a28d5f
 ---
