@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d79b4108-0133-905b-8d83-1ce3e89f95ae
 resourcetype: Document
 title: '17.588F13 Field Seminar in Comparative Politics: Wk 6 Paper Topics'
 uid: 648746ad-02c4-da20-2338-fd51b2c0d8a3

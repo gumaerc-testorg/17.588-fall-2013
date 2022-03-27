@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Questions for Class Discussion
 parent_type: CourseSection
+parent_uid: 08113404-3960-a473-8e30-7595d3a28d5f
 resourcetype: Document
 title: '17.588F13 Field Seminar in Comparative Politics: Wk 10 Discussion Questions'
 uid: eb6da0d2-5c83-bda5-f140-e5e2d5c0d1f9
