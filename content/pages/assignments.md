@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides a description of the response papers required for
+  the course along with suggested response paper topics organized by the week in which
+  they were given.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -12,7 +15,7 @@ Response Papers
 
 Six "response papers" are due over the course of the semester. In some cases, the paper is framed as the sort of question you might get on a comprehensive exam; in other cases, it is presented as a consulting project you might be invited to do; in still others, you are asked to peer-review an article; and in the rest you are asked to design a study that tests a certain question. Regardless, the goal is to get you to identify the central issues that the assigned readings for the week address, to describe the authors' positions vis-à-vis those issues, to comment critically on the state of the debate, to assess individual contributions to it, and to extrapolate from the literature. In short, your paper should not be a summary of the readings but rather a critical discussion of the issues that they address.
 
-Each paper should be around 1,200 words, though I will read more if the paper is of high quality. A list of [Stylistic and Substantive Hints for Writing Papers (PDF)]({{< baseurl >}}/resources/mit17_588f13_paperwrithin) is included here. Please do go through these hints before you submit your papers.
+Each paper should be around 1,200 words, though I will read more if the paper is of high quality. A list of {{% resource_link 118cc93b-2c54-4f57-108e-6319418e2d46 "Stylistic and Substantive Hints for Writing Papers (PDF)" %}} is included here. Please do go through these hints before you submit your papers.
 
 I would recommend you allow yourself 6 hours or so to write each paper, after you have completed all the readings for the week.
 
@@ -104,9 +107,9 @@ What sort of political institutions are most likely to promote economic growth?
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Option 1 (PDF)]({{< baseurl >}}/resources/mit17_588f13_week9paper1)
+{{% resource_link 53ea11bb-cb64-4e33-5ffb-f2af2cc4829c "Option 1 (PDF)" %}}
 
-[Option 2 (PDF)]({{< baseurl >}}/resources/mit17_588f13_week9paper2)
+{{% resource_link a161dc24-6c01-7c1f-53ef-0ad1a1e8999f "Option 2 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -126,9 +129,9 @@ Over the last four decades, there have been many critiques of (Donald) Stokes's 
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Option 1 (PDF)]({{< baseurl >}}/resources/mit17_588f13_week11paper1)
+{{% resource_link 29c23060-680d-ba5a-e3bf-adfa3c0ffaff "Option 1 (PDF)" %}}
 
-[Option 2 (PDF)]({{< baseurl >}}/resources/mit17_588f13_week11paper2)
+{{% resource_link 960c11ed-ed3c-664f-1b57-e5201d95ef0d "Option 2 (PDF)" %}}
 
 
 {{< tdclose >}}

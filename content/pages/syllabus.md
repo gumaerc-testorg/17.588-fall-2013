@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, prerequisites, and course requirements.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -32,4 +34,4 @@ Course Requirements
     
     I would also like each person to take a role in leading the discussion for one session over the course of the semester.
     
-*   Six "response papers" over the course of the semester. For more detail, please see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+*   Six "response papers" over the course of the semester. For more detail, please see the {{% resource_link d79b4108-0133-905b-8d83-1ce3e89f95ae "Assignments" %}} section.
