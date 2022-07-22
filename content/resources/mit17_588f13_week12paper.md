@@ -5,6 +5,7 @@ file: /courses/17-588-field-seminar-in-comparative-politics-fall-2013/80e746d42a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '17.588F13 Field Seminar in Comparative Politics: Wk 12 Paper Topics'
 uid: 80e746d4-2a9d-a8ef-eea0-eb398cb68c04
 ---
 This resource file contains information regarding week 12 paper topics.
-

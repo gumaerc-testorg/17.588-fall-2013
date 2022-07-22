@@ -5,6 +5,7 @@ file: /courses/17-588-field-seminar-in-comparative-politics-fall-2013/259723abb3
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection

@@ -5,6 +5,7 @@ file: /courses/17-588-field-seminar-in-comparative-politics-fall-2013/648746ad02
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '17.588F13 Field Seminar in Comparative Politics: Wk 6 Paper Topics'
 uid: 648746ad-02c4-da20-2338-fd51b2c0d8a3
 ---
 This resource file contains information regarding week 6 paper topics.
-
