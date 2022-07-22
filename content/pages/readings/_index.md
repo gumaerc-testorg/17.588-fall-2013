@@ -1,14 +1,19 @@
 ---
 content_type: page
+description: This section provides the list of required readings for each week of
+  the course along with recommended readings and hints for readings.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 31f8d3e7-3704-b978-f717-f3971f35e606
 ---
 
-The table below contains the required readings for this course. To view the questions that accompany the required readings, see the [Questions for Class Discussion]({{< baseurl >}}/pages/questions-for-class-discussion) section.
+The table below contains the required readings for this course. To view the questions that accompany the required readings, see the {{% resource_link 08113404-3960-a473-8e30-7595d3a28d5f "Questions for Class Discussion" %}} section.
 
-For additional readings, see the [Recommended Readings]({{< baseurl >}}/pages/readings/recommended-readings) section.
+For additional readings, see the {{% resource_link c3b798ec-5654-f3ba-4fa2-104d8981e3ad "Recommended Readings" %}} section.
 
-For help in approaching the readings, read [Hints on the Readings (PDF)]({{< baseurl >}}/resources/mit17_588f13_readinghints)_._
+For help in approaching the readings, read {{% resource_link 259723ab-b3ae-c882-da42-e456b071a516 "Hints on the Readings (PDF)" %}}_._
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -34,7 +39,7 @@ READINGS
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-_See the [Questions for Class Discussion]({{< baseurl >}}/pages/questions-for-class-discussion) section_
+_See the {{% resource_link 08113404-3960-a473-8e30-7595d3a28d5f "Questions for Class Discussion" %}} section_
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +74,7 @@ Rueschemeyer, Dietrich, Evelyne Huber Stephens, and John D. Stephens. In _Capita
 
 Acemoglu, Daron, and James A. Robinson. "[A Theory of Political Transitions](http://dx.doi.org/10.1257/aer.91.4.938)." _American Economic Review_ 91, no. 4 (2001): 938–63.
 
-_See the [Questions for Class Discussion]({{< baseurl >}}/pages/questions-for-class-discussion) section_
+_See the {{% resource_link 08113404-3960-a473-8e30-7595d3a28d5f "Questions for Class Discussion" %}} section_
 
 
 {{< tdclose >}}
@@ -111,7 +116,7 @@ Berman, Sheri. "[Civil Society and the Collapse of the Weimar Republic](http://w
 
 Fish, M. Steven. "[Islam and Authoritarianism](http://dx.doi.org/10.1353/wp.2003.0004)." _World Politics_ 55, no. 1 (2002): 4–37.
 
-_See the [Questions for Class Discussion]({{< baseurl >}}/pages/questions-for-class-discussion) section_
+_See the {{% resource_link 08113404-3960-a473-8e30-7595d3a28d5f "Questions for Class Discussion" %}} section_
 
 
 {{< tdclose >}}
@@ -143,7 +148,7 @@ Duverger, Maurice. "The Number of Parties." Book II, Chapter 1, Parts 1-2 in _Po
 
 Tsebelis, George. ["Decision Making in Political Systems: Veto Players in Presidentialism, Parliamentarism, Multicameralism, and Multipartism."](http://www.jstor.org/stable/194257 ) _British Journal of Political Science_ 25, no. 3 (1995): 289–325.
 
-_See the [Questions for Class Discussion]({{< baseurl >}}/pages/questions-for-class-discussion) section_
+_See the {{% resource_link 08113404-3960-a473-8e30-7595d3a28d5f "Questions for Class Discussion" %}} section_
 
 
 {{< tdclose >}}
@@ -173,7 +178,7 @@ Jones, Benjamin F., and Benjamin A. Olken. "[Do Leaders Matter? National Leaders
 
 Simonton, Dean Keith. "[Presidential IQ, Openness, Intellectual Brilliance, and Leadership: Estimates and Correlations for 42 U.S. Chief Executives](http://dx.doi.org/10.1111/j.1467-9221.2006.00524.x)." _Political Psychology_ 27, no. 4 (2006): 511–26.
 
-_See the [Questions for Class Discussion]({{< baseurl >}}/pages/questions-for-class-discussion) section_
+_See the {{% resource_link 08113404-3960-a473-8e30-7595d3a28d5f "Questions for Class Discussion" %}} section_
 
 
 {{< tdclose >}}
@@ -209,7 +214,7 @@ Migdal, Joel S. "Part One: States and Societies." In _Strong Societies and Weak 
 
 Skowronek, Stephen. "The New State and American Political Development." Chapter 1 in _Building a New American State: The Expansion of National Administrative Capacities 1877–1920_. Cambridge University Press, 1982. ISBN: 9780521288651. \[Preview with [Google Books](http://books.google.com/books?id=W37zSNcybaEC&pg=PA17=onepage#v=onepage&q&f=false)\]
 
-_See the [Questions for Class Discussion]({{< baseurl >}}/pages/questions-for-class-discussion) section_
+_See the {{% resource_link 08113404-3960-a473-8e30-7595d3a28d5f "Questions for Class Discussion" %}} section_
 
 
 {{< tdclose >}}
@@ -239,7 +244,7 @@ Moore, Jr., Barrington. "Preface and Acknowledgements." In _Social Origins of Di
 
 ———. "The Peasants and Revolution." Chapter 9 in _Social Origins of Dictatorship and Democracy: Lord and Peasant in the Making of the Modern World_. Beacon Press, 1993. ISBN: 9780807050736.
 
-_See the [Questions for Class Discussion]({{< baseurl >}}/pages/questions-for-class-discussion) section_
+_See the {{% resource_link 08113404-3960-a473-8e30-7595d3a28d5f "Questions for Class Discussion" %}} section_
 
 
 {{< tdclose >}}
@@ -271,7 +276,7 @@ de Soto, Hernando. "The Five Mysteries of Capital." Chapter 1 in _The Mystery of
 
 ———. "By Way of Conclusion." Chapter 7 in _The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else_. Basic Books, 2003, pp. 208–18. ISBN: 9780465016150.
 
-_See the [Questions for Class Discussion]({{< baseurl >}}/pages/questions-for-class-discussion) section_
+_See the {{% resource_link 08113404-3960-a473-8e30-7595d3a28d5f "Questions for Class Discussion" %}} section_
 
 
 {{< tdclose >}}
@@ -291,7 +296,7 @@ Anderson, Benedict. _Imagined Communities: Reflections on the Origin and Spread 
 
 Darden, Keith, and Anna Grzymala-Busse. "[The Great Divide: Literacy, Nationalism, and the Communist Collapse](http://dx.doi.org/10.1353/wp.2007.0015)." _World Politics_ 59, no. 1 (2006): 83–115.
 
-_See the [Questions for Class Discussion]({{< baseurl >}}/pages/questions-for-class-discussion) section_
+_See the {{% resource_link 08113404-3960-a473-8e30-7595d3a28d5f "Questions for Class Discussion" %}} section_
 
 
 {{< tdclose >}}
@@ -321,7 +326,7 @@ Boix, Carles. "The Emergence of Parties and Party Systems." Chapter 21 in _The O
 
 Kitschelt, Herbert. "Party Systems." Chapter 22 in _The Oxford Handbook of Comparative Politics_. Edited by Carles Boix and Susan C. Stokes. Oxford University Press, 2009. ISBN: 9780199566020.
 
-_See the [Questions for Class Discussion]({{< baseurl >}}/pages/questions-for-class-discussion) section_
+_See the {{% resource_link 08113404-3960-a473-8e30-7595d3a28d5f "Questions for Class Discussion" %}} section_
 
 
 {{< tdclose >}}
@@ -349,9 +354,9 @@ Magaloni, Beatriz, Alberto Diaz-Caybros, and Federico Estévez. "Clientelism and
 
 Finan, Frederico, and Laura Schechter. "[Vote-Buying and Reciprocity](http://dx.doi.org/10.3982/ECTA9035)." _Econometrica_ 80, no. 2 (2012): 863–81.
 
-Vicente, Pedro C. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Is Vote-buying Effective? Evidence from a Field Experiment in West Africa." (PDF - 2.3 MB)](http://www.pedrovicente.org/banho.pdf) 2013. pedrovicente.org.
+Vicente, Pedro C. ["Is Vote-buying Effective? Evidence from a Field Experiment in West Africa." (PDF - 2.3 MB)](http://www.pedrovicente.org/banho.pdf) 2013. pedrovicente.org.
 
-_See the [Questions for Class Discussion]({{< baseurl >}}/pages/questions-for-class-discussion) section_
+_See the {{% resource_link 08113404-3960-a473-8e30-7595d3a28d5f "Questions for Class Discussion" %}} section_
 
 
 {{< tdclose >}}
@@ -387,7 +392,7 @@ Ferraz, Claudio, and Frederico Finan. "[Exposing Corrupt Politicians: The Effect
 
 Kosack, Stephen, Courtney Tolmie, and Charles C. Griffin. "Examine the spending." Chapter 4 in _From the Ground Up: Improving Government Performance with Independent Monitoring Organizations_. Brookings Institution Press, 2010, pp. 50–64. ISBN: 9780815704126.
 
-_See the [Questions for Class Discussion]({{< baseurl >}}/pages/questions-for-class-discussion) section_
+_See the {{% resource_link 08113404-3960-a473-8e30-7595d3a28d5f "Questions for Class Discussion" %}} section_
 
 
 {{< tdclose >}}
@@ -417,9 +422,9 @@ Ober, Josiah. "Public Speech and the Power of the People in Democratic Athens." 
 
 ———. "[Learning from Athens](http://www.bostonreview.net/josiah-ober-learning-from-athens)," _Boston Review_, March 1, 2006.
 
-Schmitter, Philippe C. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"A Proposal for the Creation of a 'Citizen's Assembly'." (PDF)](http://www.eui.eu/Documents/DepartmentsCentres/SPS/Profiles/Schmitter/CitizenAssembly.pdf) 2002.
+Schmitter, Philippe C. ["A Proposal for the Creation of a 'Citizen's Assembly'." (PDF)](http://www.eui.eu/Documents/DepartmentsCentres/SPS/Profiles/Schmitter/CitizenAssembly.pdf) 2002.
 
-_See the [Questions for Class Discussion]({{< baseurl >}}/pages/questions-for-class-discussion) section_
+_See the {{% resource_link 08113404-3960-a473-8e30-7595d3a28d5f "Questions for Class Discussion" %}} section_
 
 
 {{< tdclose >}}
