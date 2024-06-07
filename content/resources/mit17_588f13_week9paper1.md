@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource file contains information regarding week 9 paper 1 topics.
 file: /courses/17-588-field-seminar-in-comparative-politics-fall-2013/53ea11bbcb644e335ffbf2af2cc4829c_MIT17_588F13_Week9Paper1.pdf
+file_size: 259061
 file_type: application/pdf
 learning_resource_types:
 - Assignments

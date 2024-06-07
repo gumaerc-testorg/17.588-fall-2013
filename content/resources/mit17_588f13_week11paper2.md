@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource file contains information regarding week 11 paper 2 topics.
 file: /courses/17-588-field-seminar-in-comparative-politics-fall-2013/960c11eded3c664f1b57e5201d95ef0d_MIT17_588F13_Week11Paper2.pdf
+file_size: 291288
 file_type: application/pdf
 learning_resource_types:
 - Assignments
