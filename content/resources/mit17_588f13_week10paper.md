@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource file contains information regarding week 10 paper topics.
-file: /courses/17-588-field-seminar-in-comparative-politics-fall-2013/f875d72eda70f6de67dacf5494854488_MIT17_588F13_Week10Paper.pdf
+file: /ol-ocw-studio-app/courses/17-588-field-seminar-in-comparative-politics-fall-2013/f875d72eda70f6de67dacf5494854488_MIT17_588F13_Week10Paper.pdf
 file_size: 267757
 file_type: application/pdf
 learning_resource_types:
