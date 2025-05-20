@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/17-588-field-seminar-in-comparative-politics-fall-2013/259723abb3aec882da42e456b071a516_MIT17_588F13_ReadingHints.pdf
+file: /courses/17-588-field-seminar-in-comparative-politics-fall-2013/259723abb3aec882da42e456b071a516_MIT17_588F13_ReadingHints.pdf
 file_size: 260461
 file_type: application/pdf
 learning_resource_types:

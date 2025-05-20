@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource file contains information regarding week 7 paper topics.
-file: /ol-ocw-studio-app/courses/17-588-field-seminar-in-comparative-politics-fall-2013/a139ac5e06fce51bf8cbc771d5321e47_MIT17_588F13_Week7Paper.pdf
+file: /courses/17-588-field-seminar-in-comparative-politics-fall-2013/a139ac5e06fce51bf8cbc771d5321e47_MIT17_588F13_Week7Paper.pdf
 file_size: 351933
 file_type: application/pdf
 learning_resource_types:
