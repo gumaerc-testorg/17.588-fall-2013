@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource file contains information regarding week 12 discussion
   questions. '
-file: /ol-ocw-studio-app/courses/17-588-field-seminar-in-comparative-politics-fall-2013/cbae1e51aa5269bcd95bc7291adac847_MIT17_588F13_Week12Questio.pdf
+file: /courses/17-588-field-seminar-in-comparative-politics-fall-2013/cbae1e51aa5269bcd95bc7291adac847_MIT17_588F13_Week12Questio.pdf
 file_size: 255714
 file_type: application/pdf
 learning_resource_types: []

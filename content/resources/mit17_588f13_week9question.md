@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource file contains information regarding week 9 discussion questions.
-file: /ol-ocw-studio-app/courses/17-588-field-seminar-in-comparative-politics-fall-2013/a40b0efa471bfd28c42f6769d29515e9_MIT17_588F13_Week9Question.pdf
+file: /courses/17-588-field-seminar-in-comparative-politics-fall-2013/a40b0efa471bfd28c42f6769d29515e9_MIT17_588F13_Week9Question.pdf
 file_size: 253689
 file_type: application/pdf
 learning_resource_types: []

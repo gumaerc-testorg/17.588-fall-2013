@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource file contains information regarding week 12 paper topics.
-file: /ol-ocw-studio-app/courses/17-588-field-seminar-in-comparative-politics-fall-2013/80e746d42a9da8efeea0eb398cb68c04_MIT17_588F13_Week12Paper.pdf
+file: /courses/17-588-field-seminar-in-comparative-politics-fall-2013/80e746d42a9da8efeea0eb398cb68c04_MIT17_588F13_Week12Paper.pdf
 file_size: 251877
 file_type: application/pdf
 learning_resource_types:
