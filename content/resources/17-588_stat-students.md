@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/17-588-field-seminar-in-comparative-politics-fall-2013/cbd5b9ee1f535ed94d56ad1a24895376_17-588_stat-students.png
+file: /courses/17-588-field-seminar-in-comparative-politics-fall-2013/cbd5b9ee1f535ed94d56ad1a24895376_17-588_stat-students.png
 file_size: 2955
 file_type: image/png
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource file contains information regarding week 11 paper 1 topics.
-file: /ol-ocw-studio-app/courses/17-588-field-seminar-in-comparative-politics-fall-2013/29c23060680dba5ae3bfadfa3c0ffaff_MIT17_588F13_Week11Paper1.pdf
+file: /courses/17-588-field-seminar-in-comparative-politics-fall-2013/29c23060680dba5ae3bfadfa3c0ffaff_MIT17_588F13_Week11Paper1.pdf
 file_size: 264471
 file_type: application/pdf
 learning_resource_types:
