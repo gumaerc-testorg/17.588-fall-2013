@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource file contains information regarding week 3 paper topics.
-file: /courses/17-588-field-seminar-in-comparative-politics-fall-2013/4e80e42862a2fc53106516e5d48bc34b_MIT17_588F13_Week3Paper.pdf
+file: /ol-ocw-studio-app/courses/17-588-field-seminar-in-comparative-politics-fall-2013/4e80e42862a2fc53106516e5d48bc34b_MIT17_588F13_Week3Paper.pdf
 file_size: 253345
 file_type: application/pdf
 learning_resource_types:

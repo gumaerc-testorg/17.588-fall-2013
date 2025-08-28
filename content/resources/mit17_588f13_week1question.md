@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource file contains information regarding week 1 discussion questions.
-file: /courses/17-588-field-seminar-in-comparative-politics-fall-2013/561dbda2cf87fa052d700aa22f501a0d_MIT17_588F13_Week1Question.pdf
+file: /ol-ocw-studio-app/courses/17-588-field-seminar-in-comparative-politics-fall-2013/561dbda2cf87fa052d700aa22f501a0d_MIT17_588F13_Week1Question.pdf
 file_size: 258266
 file_type: application/pdf
 learning_resource_types: []
