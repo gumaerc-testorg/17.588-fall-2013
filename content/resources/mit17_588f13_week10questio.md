@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource file contains information regarding week 10 discussion
   questions.
-file: /courses/17-588-field-seminar-in-comparative-politics-fall-2013/eb6da0d25c83bda5f140e5e2d5c0d1f9_MIT17_588F13_Week10Questio.pdf
+file: /ol-ocw-studio-app/courses/17-588-field-seminar-in-comparative-politics-fall-2013/eb6da0d25c83bda5f140e5e2d5c0d1f9_MIT17_588F13_Week10Questio.pdf
 file_size: 261280
 file_type: application/pdf
 learning_resource_types: []
