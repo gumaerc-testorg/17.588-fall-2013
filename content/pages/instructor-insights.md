@@ -30,8 +30,8 @@ This course was a graduate-level seminar in comparative politics. It aimed to pr
 ### Requirements Satisfied
 
 - H-Level Graduate Credit ![](/images/educator/icon-question-hlevel.png)
-- 17.588 can be applied toward a [Master of Science in Political Science](https://polisci.mit.edu/graduate/masters)
-- 17.588 can be applied toward a [PhD in Political Science](http://web.mit.edu/polisci/graduate/phd.html)
+- 17.588 can be applied toward a {{% resource_link "519cddeb-e609-4a77-be35-c872e3534dd9" "Master of Science in Political Science" %}}
+- 17.588 can be applied toward a {{% resource_link "be01c388-e7aa-4822-9226-c967d82fa5ab" "PhD in Political Science" %}}
 
 ### Offered
 
